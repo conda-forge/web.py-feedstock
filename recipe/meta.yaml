@@ -1,6 +1,6 @@
 {% set name = "web.py" %}
-{% set version = "0.40" %}
-{% set sha256 = "dc5e42ffbc42d77d07f75b7acca9975a3368ae609774e49ddebb497a784131f3" %}
+{% set version = "0.50" %}
+{% set sha256 = "2ccd4c4a973286d99303831c4bff60c955fb333c4a8c4ffb02bf87e32501ebb2" %}
 
 package:
   name: {{ name|lower }}
@@ -31,7 +31,7 @@ test:
 about:
   home: http://webpy.org
   license: Public domain
-  summary: 'web.py is a web framework for Python that is as simple as it is powerful.'
+  summary: web.py is a web framework for Python that is as simple as it is powerful.
   dev_url: https://github.com/webpy/webpy
 
 extra:
