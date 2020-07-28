@@ -1,6 +1,6 @@
 {% set name = "web.py" %}
-{% set version = "0.60" %}
-{% set sha256 = "58b79c0421bd4b9f5bb2d6d958105c5c8f2c6fa816cc2ef45126015873342945" %}
+{% set version = "0.61" %}
+{% set sha256 = "c7a9081aeb086cd3e703c7553a47ee75188d1d325f25eec7654d9bb00b5eccbb" %}
 
 package:
   name: {{ name|lower }}
