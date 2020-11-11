@@ -5,11 +5,11 @@ Home: http://webpy.org
 
 Package license: Public domain
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/web.py-feedstock/blob/master/LICENSE.txt)
 
 Summary: web.py is a web framework for Python that is as simple as it is powerful.
 
-
+Development: https://github.com/webpy/webpy
 
 Current build status
 ====================
